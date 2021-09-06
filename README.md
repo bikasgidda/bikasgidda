@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bikasgidda
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++ and Java
-- 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me via email: bikas.gidda@gmail.com
 
 <!---
