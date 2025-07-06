@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bikasgidda
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ and Java
+- 👀 I’m interested in programming/Artificial Intelligence & Machine Learning/data analysis/product management
+- 🌱 I have completed my degree in Computer Science (class of 2023)
+- 🌱 I am proficient in Java, SQL, Python, HTML, APEX programming 
 - 📫 You can reach me via email: bikas.gidda@gmail.com
 
 <!---
